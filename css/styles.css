@@ -1,0 +1,252 @@
+h1{
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  margin: 25px;
+  padding:5px;
+  background: #779963;
+}
+p{
+  font-family: sans-serif;
+  text-align: left;
+  margin: 20 auto;
+  padding: 0 25px;
+}
+
+body{
+  background: #c7f9a9;
+}
+
+.first {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/MID/chrysler2.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 10px;
+  top:150px;
+}
+.second {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/SCC19-woolwr06_small1.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 130px;
+  top: 150px;
+}
+.third {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/MID/073_674.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 250px;
+  top: 150px;
+}
+.fourth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/mid032-waldorfastoria_small.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 370px;
+  top: 150px;
+}
+.fifth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/SCC19-woolwr06_small1.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 490px;
+  top: 150px;
+}
+.sixth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/MID031A-02_small.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 10px;
+  top: 270px;
+}
+.seventh {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/mid032-waldorfastoria_small.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 130px;
+  top: 270px;
+}
+.eighth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/TEN/MID031A-02_small.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 250px;
+  top: 270px;
+}
+.ninth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/MID/chrysler2.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 370px;
+  top: 270px;
+}
+.tenth {
+  width: 60px;
+  height: 60px;
+  background-image: url("http://nyc-architecture.com/MID/073_674.jpg");
+  padding: 20px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 490px;
+  top: 270px;
+}
+
+
+
+.firstbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 10px;
+  top: 150px;
+}
+.secondbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 130px;
+  top: 150px;
+}
+.thirdbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 250px;
+  top: 150px;
+}
+.fourthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 370px;
+  top: 150px;
+}
+.fifthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 490px;
+  top: 150px;
+}
+.sixthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 10px;
+  top: 270px;
+}
+.seventhbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 130px;
+  top: 270px;
+}
+.eighthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 250px;
+  top: 270px;
+}
+.ninthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 370px;
+  top: 270px;
+}
+.tenthbox {
+  width: 60px;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+  background: gray;
+  background-size: 100px 100px;
+  position: absolute;
+  left: 490px;
+  top: 270px;
+}
